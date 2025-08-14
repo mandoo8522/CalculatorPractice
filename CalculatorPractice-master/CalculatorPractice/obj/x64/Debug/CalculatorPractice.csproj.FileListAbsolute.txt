@@ -1,6 +1,0 @@
-C:\Users\hajin\Downloads\CalculatorPractice-master\CalculatorPractice-master\CalculatorPractice\obj\x64\Debug\CalculatorPractice.csproj.AssemblyReference.cache
-C:\Users\hajin\Downloads\CalculatorPractice-master\CalculatorPractice-master\CalculatorPractice\obj\x64\Debug\MainWindow.g.cs
-C:\Users\hajin\Downloads\CalculatorPractice-master\CalculatorPractice-master\CalculatorPractice\obj\x64\Debug\HistoryWindow.g.cs
-C:\Users\hajin\Downloads\CalculatorPractice-master\CalculatorPractice-master\CalculatorPractice\obj\x64\Debug\App.g.cs
-C:\Users\hajin\Downloads\CalculatorPractice-master\CalculatorPractice-master\CalculatorPractice\obj\x64\Debug\CalculatorPractice_MarkupCompile.cache
-C:\Users\hajin\Downloads\CalculatorPractice-master\CalculatorPractice-master\CalculatorPractice\obj\x64\Debug\CalculatorPractice_MarkupCompile.lref
